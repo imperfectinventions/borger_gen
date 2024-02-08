@@ -1,3 +1,4 @@
+![Borger logo](repo_logo.png)
 # BK API Reference
 
 POST https://mdw.bk.com/api/whopper/initialize
